@@ -1,3 +1,3 @@
 #!/bin/bash
-sw betty
+su betty
 
